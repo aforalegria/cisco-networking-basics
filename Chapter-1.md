@@ -29,4 +29,29 @@ Each group of eight bits, such as the representations of letters and numbers, is
 
 ## Bandwidth
 
-≈
+**Bandwidth** - rate of data transfer.
+
+Common bandwidth measurements:
+
+- Thousands of bits per second (Kbps)
+- Millions of byes per second (Mbps)
+- Billions of bytes per second (Gbps)
+
+| Unit of Bandwidth    | Abbreviation | Equivalence                                   |
+|----------------------|--------------|-----------------------------------------------|
+| Bits per second      | bps          | 1 bps = fundamental unit of bandwidth         |
+| Kilobits per second  | Kbps         | 1 Kbps = 1,000 bps = 10³ bps                  |
+| Megabits per second  | Mbps         | 1 Mbps = 1,000,000 bps = 10⁶ bps              |
+| Gigabits per second  | Gbps         | 1 Gbps = 1,000,000,000 bps = 10⁹ bps          |
+| Terabits per second  | Tbps         | 1 Tbps = 1,000,000,000,000 bps = 10¹² bps     |
+
+## Throughput
+
+**Throughput** - measure of the transfer of bits across the media over a given period of time, but it doesn't usually match the specified bandwidth. Factors:
+
+- Amount of data being sent and received over the connection
+- Types of data being transmitted
+- Latency created by the number of network devices encountered between source and destination
+
+**Latency** - amount of time, including delays, for data to travel from one given point to another.
+Example: difference between download and upload speed.
