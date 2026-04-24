@@ -39,3 +39,21 @@ Example: chats and messengers.
 
 computer with server software can provide services simultaneously to one or many clients.
 With multiple clients installed, a host can connect to multiple servers at the same time.
+
+## Network infrastructure
+
+Three categories of hardware components:
+- End devices
+- Intermediate devices
+- Network media
+
+### End devices
+
+End device examples:
+- Computers (workstations, laptops, file servers, web servers)
+- Network printers
+- Telephones and teleconferencing equipment
+- Security cameras
+- Mobile devices (such as smart phones, tablets, PDAs, and wireless debit/credit card readers, etc.)
+
+
