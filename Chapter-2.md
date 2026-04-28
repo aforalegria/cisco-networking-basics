@@ -77,8 +77,8 @@ DSL runs over a telephone line, with the line split into three channels: *voice 
 Quality and speed of the  DSL connection depends mainly on the quality of the phone line and the distance from the central office of the  phone company.
 
 ### Additional connectivity options:
-- **Celular** - wherever one can get a cellular signal, one can get cellular internet access. Downside - downside of cellular connectivity is that the carrier usually meters the bandwidth usage of the connection and may charge extra
+- **Celular**. Wherever one can get a cellular signal, one can get cellular internet access. Downside - downside of cellular connectivity is that the carrier usually meters the bandwidth usage of the connection and may charge extra
 for bandwidth that exceeds the contract data plan.
-- **Satelite** - 
-- **Dial-up telephone** -  
+- **Satelite**. Good option for places without access to DSL or cable. Sequires clear sight of the satelite, so might be difficult in wooded areas or places with large overhead constructions. 
+- **Dial-up telephone**. Uses phone line as a modem. To connect to the ISP, user calls ISP phone number. Has low bandwidth, and considered a backup solution for when the higher spedd options are not available.
 
